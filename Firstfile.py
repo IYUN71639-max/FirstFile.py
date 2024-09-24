@@ -3,4 +3,5 @@
 first = "Isaac"
 last = "Yun"
 age = 14
-print(first + last + age)
+print(first, last, str(age))
+print(first + " " + last + " " + str(age))
